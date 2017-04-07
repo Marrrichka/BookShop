@@ -1,0 +1,64 @@
+.container{
+    background: linear-gradient(to bottom,#ffffff 0%,#e3e2dd 100%);
+    padding: 20px 20px;}
+    .basic{
+    margin: 50px 0;}
+    
+.breadcrumbs {
+    padding: 6px 0px 0 0;
+    margin: 0 0 11px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #bb122f;
+    overflow: hidden;
+}
+.breadcrumbs li {
+padding: 0 2px;
+    display: inline;
+    float: left;
+}
+.breadcrumbs li a {
+    color: #393939;
+    text-decoration: none;
+    padding: 0 2px;
+}
+.li {
+
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.ul, ol {
+    list-style: none;
+}
+.ul, menu, dir {
+    display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+.name{	
+	margin:0 0 2px 2px;
+	font-size: 17px;
+	color:#bd1130;
+	font-weight: bolder;
+	font-family: serif;
+}
+.autorname{
+	margin:0 0 4px 0;
+	color: #666666;
+	font-size: 15px;
+	font-weight: bolder;
+	font-family: cursive;
+	
+}
+.namestatic{
+	color: #b2b2b2;
+	font-size: 13px;
+	font-weight: bolder;
+}
+.kartynla{
+	margin-top: 10px;
+}

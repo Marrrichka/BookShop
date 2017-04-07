@@ -1,0 +1,159 @@
+
+body{
+	background: #e5e5e5;
+    font-family: Arial;    
+    line-height: 1.5em;
+    color: #393939;
+    
+    min-width: 990px;
+}
+.newrow{
+	background: linear-gradient(to bottom,#b2b2b2 0%, #ffffff 100%);
+    
+}
+.slide{
+	background-color: white;
+}
+.Car1{
+	padding: 0 10px 0 95px;
+	background: white;
+}
+
+
+.menu{	
+	padding: 0 0 0 62px;
+	height: 53px;	
+    position: relative;
+    z-index: 20;
+    font-family: 'Candara',Tahoma,Verdana,sans-serif;
+    text-transform: uppercase;
+    color: #383838;
+    background: #d5d5d5;
+    background: -webkit-linear-gradient(top,#d5d5d5 0%,#bdbdbd 100%);
+    background: -moz-linear-gradient(top,#d5d5d5 0%,#bdbdbd 100%);
+    background: -o-linear-gradient(top,#d5d5d5 0%,#bdbdbd 100%);
+    background: -ms-linear-gradient(top,#d5d5d5 0%,#bdbdbd 100%);
+    background: linear-gradient(top,#d5d5d5 0%,#bdbdbd 100%);
+    border-radius: 6px 6px 0 0;
+    font-size: 8;
+    border-bottom: thin solid #b2b2b2;
+}
+.customenu .menu1 .navbar-nav > li > a{
+	height: 50px;
+	text-align: center;
+	color: #4c4c4c;
+	border-right: thin solid #cccccc;
+	border-left: thin solid #cccccc;
+	font-weight: bold;
+	
+}
+.customenu .menu1 .navbar-nav > li > a:hover{
+	color:darkred;
+}
+.menu2 .navbar-nav > li > a{
+	height: 60px;
+	text-align: center;
+	color: #666666;
+	border-right: thin solid #b2b2b2;
+	font-weight: bold;
+	
+}
+.menu2 .navbar-nav > li > a:hover{
+	color:darkred;
+}
+.menu3 .navbar-nav > li > a{
+	height: 60px;
+	text-align: center;
+	color: #666666;
+	border-right: thin solid #b2b2b2;
+	padding-top: 23px;
+	font-weight: bold;
+	
+}
+.menu3 .navbar-nav > li > a:hover{
+	color:darkred;
+}
+.menu4 .navbar-nav > li > a{
+	height: 60px;
+	text-align: center;
+	color: #666666;
+	border-right: thin solid #b2b2b2;
+	font-weight: bold;
+	
+}
+.menu4 .navbar-nav > li > a:hover{
+	color:darkred;
+}
+.menu5 .navbar-nav > li > a{
+	height: 60px;
+	text-align: center;
+	color: #666666;
+	border-right: thin solid #b2b2b2;
+	padding-top: 23px;
+	font-weight: bold;
+	
+}
+.menu5 .navbar-nav > li > a:hover{
+	color:darkred;
+}
+.menu6 .navbar-nav > li > a{
+	height: 60px;
+	text-align: center;
+	color: #666666;
+	border-right: thin solid #b2b2b2;
+	font-weight: bold;
+	
+}
+.menu6 .navbar-nav > li > a:hover{
+	color:darkred;
+}
+.menu7 .navbar-nav > li > a{
+	height: 60px;
+	text-align: center;
+	color: #666666;
+	border-right: thin solid #b2b2b2;
+	font-weight: bold;
+	
+}
+.menu7 .navbar-nav > li > a:hover{
+	color:darkred;
+}
+.menu8 .navbar-nav > li > a{
+	height: 60px;
+	text-align: center;
+	color: #666666;
+	border-right: thin solid #b2b2b2;
+	font-weight: bold;
+	
+}
+.menu8 .navbar-nav > li > a:hover{
+	color:darkred;
+}
+.menu9 .navbar-nav > li > a{
+	height: 60px;
+	text-align: center;
+	color: #666666;
+	font-weight: bold;
+}
+.menu9 .navbar-nav > li > a:hover{
+	color:darkred;
+}
+.container .novynka > a{
+	 
+	margin-left: 30px;
+	text-align: right;
+	color: #bb122f;
+    text-decoration: underline;
+}
+.dodatok > a{
+	margin:0 0 4px 0;
+	color: #666666;
+	font-size: 15px;
+	font-weight: bolder;
+	font-family: cursive;
+}
+.customenu .menu1 ul.nav li.dropdown:hover > ul.dropdown-menu{
+	color: blue;
+	 display: block;
+	 margin-top: 0;
+}

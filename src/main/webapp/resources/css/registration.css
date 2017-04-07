@@ -1,0 +1,66 @@
+.container{
+ background: linear-gradient(to bottom,#ffffff 0%,#e3e2dd 100%);
+ text-align: center;
+ }
+ .dani{
+  padding: 6px 0px 0 200px;
+    margin: 0 0 11px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #bb122f;
+    overflow: hidden;
+    text-align: left;
+    
+    }
+ .tytylka{
+ color: #d41010;
+ font-size: large;
+ text-align: center;
+ }
+ .bonus{
+margin-top: 30px;}
+ .text{
+ color: #4c4c4c;
+ font-size: large;
+ text-align: center;
+ }
+.body-text{
+ color: #4c4c4c;
+ font-size: small;
+ text-align: center;
+ margin: 20px 0;
+ }
+.bonus-table th {
+    background-color: #BE1031;
+    color: #FFFFFF;
+    padding: 15px 20px;
+}
+.tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+.table {
+    border: 0;
+    border-collapse: collapse;
+    border-spacing: 0;
+    empty-cells: show;
+    font-size: 100%;
+    }
+.tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+.bonus-table table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    font-size: 16px;  
+    }
+.party-table{
+margin-top: 20px;
+padding: 0 20px;}
+.bonusvyk{
+
+padding: 10px 60px;
+}

@@ -1,0 +1,22 @@
+.container{
+    background: linear-gradient(to bottom,#ffffff 0%,#e3e2dd 100%);
+    padding: 20px 40px;
+    }
+.titel{	
+	font-size: 19px;
+	color:#bd1130;
+	font-weight: bolder;
+	font-family: serif;
+	margin-bottom: 15px;
+}
+.name{	
+	color: #999999;
+	font-size: 14px;
+	font-weight: bolder;
+}
+.price{
+	color: #666666;
+	font-size: 14px;
+	font-weight: bolder;
+	font-family: cursive;
+}
